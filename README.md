@@ -1,2 +1,2 @@
 # ARTgallery
-My Art works in a website
+A fully responsive website specially created to showcase my best ARTWORKS.
